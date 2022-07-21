@@ -1,6 +1,6 @@
 # threejsparticles
 
-Three.js particles effect background view
+** Three.js particles effect background view **
 
 start installing parcel globally
 and then run command
